@@ -3,7 +3,7 @@ Project Overview
 
 This project predicts the outcome of Serie A football matches (Win, Draw, Loss) using historical match data enriched with advanced feature engineering and machine learning models.
 The pipeline covers data cleaning, feature engineering, model training, hyperparameter tuning, and evaluation.
-To view the projcet report including results you can download MatchPrediciton.pdf file.
+To view the projcet report including results you can download Match_Prediction.pdf file.
  Data Source
 
     Dataset: matches_serie_A.csv (includes match statistics, team lineups, venues, dates, and results)
